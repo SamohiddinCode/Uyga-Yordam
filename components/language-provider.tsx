@@ -16,8 +16,8 @@ export const translations = {
     },
     hero: {
       title: "Tibbiy Yordam Uyingizda",
-      subtitle: "Professional shifokorlar va hamshiralar xizmati sizning uyingiz qulayligida. 24/7 ishlaydi.",
-      cta: "Telegram Bot orqali murojaat",
+      subtitle: "24/7 professional tibbiy yordam uyingizda. Sog’lig’ingiz haqida bizga qayg’uring.",
+      cta: "Shifokorni chaqirish",
     },
     services: {
       title: "Bizning Xizmatlarimiz",
@@ -176,7 +176,7 @@ export const translations = {
       title: "Biz Haqimizda",
       subtitle: "Professional tibbiy yordam xizmati",
       description:
-        "Uyga Yordam - bu zamonaviy tibbiy xizmat ko'rsatish platformasi. Biz 2020-yildan boshlab O'zbekiston bo'ylab professional shifokorlar va hamshiralarning uyga tashrif buyurish xizmatlarini taqdim etamiz.",
+        "Uyga Yordam - bu zamonaviy tibbiy xizmat ko'rsatish platformasi. Biz 2026-yildan boshlab O'zbekiston bo'ylab professional shifokorlar va hamshiralarning uyga tashrif buyurish xizmatlarini taqdim etamiz.",
       mission: {
         title: "Bizning Missiyamiz",
         desc: "Har bir oilaga sifatli va qulay tibbiy yordam ko'rsatish",
@@ -239,8 +239,8 @@ export const translations = {
     },
     hero: {
       title: "Медицинская Помощь На Дому",
-      subtitle: "Профессиональные врачи и медсёстры в комфорте вашего дома. Работаем 24/7.",
-      cta: "Обратиться через Telegram бот",
+      subtitle: "Профессиональная медицинская помощь на дому: лицензированные специалисты, безопасность и комфорт — 24/7",
+      cta: "Вызвать врача сейчас",
     },
     services: {
       title: "Наши Услуги",
@@ -399,7 +399,7 @@ export const translations = {
       title: "О Нас",
       subtitle: "Профессиональная медицинская помощь",
       description:
-        "Uyga Yordam - это современная платформа медицинских услуг. С 2020 года мы предоставляем услуги профессиональных врачей и медсестер на дому по всему Узбекистану.",
+        "Uyga Yordam - это современная платформа медицинских услуг. С 2026 года мы предоставляем услуги профессиональных врачей и медсестер на дому по всему Узбекистану.",
       mission: {
         title: "Наша Миссия",
         desc: "Качественная и удобная медицинская помощь каждой семье",

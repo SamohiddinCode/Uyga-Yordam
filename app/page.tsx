@@ -16,8 +16,8 @@ const translations = {
     },
     hero: {
       title: "Tibbiy Yordam Uyingizda",
-      subtitle: "Professional shifokorlar va hamshiralar xizmati sizning uyingiz qulayligida. 24/7 ishlaydi.",
-      cta: "Telegram Bot orqali murojaat",
+      subtitle: "24/7 professional tibbiy yordam uyingizda. Sog’lig’ingiz haqida bizga qayg’uring.",
+      cta: "Shifokorni chaqirish",
     },
     services: {
       title: "Bizning Xizmatlarimiz",
@@ -68,8 +68,8 @@ const translations = {
     },
     hero: {
       title: "Медицинская Помощь На Дому",
-      subtitle: "Профессиональные врачи и медсёстры в комфорте вашего дома. Работаем 24/7.",
-      cta: "Обратиться через Telegram бот",
+      subtitle: "Профессиональная медицинная помощь на дому: лицензированные специалисты, безопасность и комфорт — 24/7",
+      cta: "Вызвать врача сейчас",
     },
     services: {
       title: "Наши Услуги",

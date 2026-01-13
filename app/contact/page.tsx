@@ -82,7 +82,7 @@ export default function ContactPage() {
 
             <Card className="p-6 bg-brand-blue text-white">
               <h3 className="text-xl font-bold mb-4">
-                {language === "uz" ? "Yoki Telegram bot orqali murojaat qiling" : "Или обратитесь через Telegram бот"}
+                {language === "uz" ? "Yoki Shifokorni chaqirish" : "Или обратитесь через Telegram бот"}
               </h3>
               <Button className="w-full bg-white text-brand-blue hover:bg-gray-100 gap-2" onClick={handleTelegramClick}>
                 <Send className="w-5 h-5" />

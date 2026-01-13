@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[89836,["/_next/static/chunks/18d6e61af5066f4c.js","/_next/static/chunks/b85d21394ae8a3b8.js","/_next/static/chunks/f31db1dca3d1cab8.js","/_next/static/chunks/796e7f5bb07ad38d.js"],"ViewportBoundary"]
+4:I[89836,["/_next/static/chunks/18d6e61af5066f4c.js","/_next/static/chunks/b85d21394ae8a3b8.js","/_next/static/chunks/f31db1dca3d1cab8.js","/_next/static/chunks/796e7f5bb07ad38d.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[76629,["/_next/static/chunks/18d6e61af5066f4c.js","/_next/static/chunks/b85d21394ae8a3b8.js","/_next/static/chunks/f31db1dca3d1cab8.js","/_next/static/chunks/796e7f5bb07ad38d.js"],"IconMark"]
+0:{"buildId":"H4JhLfFURjC-J5H5E9bHd","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Uyga Yordam - Tibbiy Yordam Uyingizda"}],["$","meta","1",{"name":"description","content":"Professional shifokorlar va hamshiralar xizmati sizning uyingiz qulayligida. 24/7 ishlaydi."}],["$","link","2",{"rel":"icon","href":"/favicon.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/favicon.png"}],["$","$L7","4",{}]]
