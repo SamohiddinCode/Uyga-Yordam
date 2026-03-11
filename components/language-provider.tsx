@@ -193,9 +193,9 @@ export const translations = {
         title: "Bizning Jamoa",
         subtitle: "Mutaxassislar bilan tanishing",
         ceo: {
-          name: "Dr. Alisher Karimov",
-          role: "Bosh Direktor",
-          desc: "15 yillik tibbiy boshqaruv tajribasi",
+          name: "Dr. Iroda Nazarova",
+          role: "Hamshira",
+          desc: "10 yildan ortiq tajribaga ega mutaxasis",
         },
         chiefDoctor: {
           name: "Dr. Nodira Rahimova",
@@ -416,9 +416,9 @@ export const translations = {
         title: "Наша Команда",
         subtitle: "Познакомьтесь с нашими специалистами",
         ceo: {
-          name: "Д-р. Алишер Каримов",
-          role: "Генеральный Директор",
-          desc: "15 лет опыта медицинского управления",
+          name: "Др. Ирода Назарова",
+          role: "Медсестра",
+          desc: "Специалист с более чем 10 годами опыта",
         },
         chiefDoctor: {
           name: "Д-р. Нодира Рахимова",
