@@ -77,8 +77,14 @@ export default function AboutPage() {
 
             {/* Chief Doctor */}
             <Card className="p-6 text-center hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
-              <div className="w-32 h-32 bg-gradient-to-br from-brand-red to-brand-red/70 rounded-full mx-auto mb-4 flex items-center justify-center overflow-hidden">
-                <div className="text-white text-4xl font-bold">MD</div>
+              <div className="w-32 h-32 mx-auto mb-4 flex items-center justify-center overflow-hidden rounded-full">
+                <Image
+                  src="/images/nurse-zamira.jpg"
+                  alt="Dr. Zamira Khalilova"
+                  width={128}
+                  height={128}
+                  className="w-full h-full object-cover rounded-full"
+                />
               </div>
               <h3 className="text-xl font-bold mb-1">{t.about.teamSection.chiefDoctor.name}</h3>
               <p className="text-brand-red font-semibold mb-3">{t.about.teamSection.chiefDoctor.role}</p>

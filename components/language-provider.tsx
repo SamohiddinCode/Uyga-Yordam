@@ -198,9 +198,9 @@ export const translations = {
           desc: "10 yildan ortiq tajribaga ega mutaxasis",
         },
         chiefDoctor: {
-          name: "Dr. Nodira Rahimova",
-          role: "Bosh Shifokor",
-          desc: "20 yillik klinik tajriba",
+          name: "Dr. Zamira Khalilova",
+          role: "Umumiy Hamshira",
+          desc: "Oilaviy shifokor mutaxassisi",
         },
         doctor1: {
           name: "Dr. Jamshid Tursunov",
@@ -421,9 +421,9 @@ export const translations = {
           desc: "Специалист с более чем 10 годами опыта",
         },
         chiefDoctor: {
-          name: "Д-р. Нодира Рахимова",
-          role: "Главный Врач",
-          desc: "20 лет клинического опыта",
+          name: "Др. Замира Халилова",
+          role: "Общая Медсестра",
+          desc: "Специалист семейной медицины",
         },
         doctor1: {
           name: "Д-р. Джамшид Турсунов",
