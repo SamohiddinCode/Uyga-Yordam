@@ -1,5 +1,6 @@
 "use client"
 
+import Image from "next/image"
 import { Card } from "@/components/ui/card"
 import { Target, Users, Award, Mail, Phone } from "lucide-react"
 import { useLanguage } from "@/hooks/use-language"
@@ -56,8 +57,14 @@ export default function AboutPage() {
           <div className="grid md:grid-cols-3 gap-8">
             {/* CEO */}
             <Card className="p-6 text-center hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
-              <div className="w-32 h-32 bg-gradient-to-br from-brand-blue to-brand-blue/70 rounded-full mx-auto mb-4 flex items-center justify-center overflow-hidden">
-                <div className="text-white text-4xl font-bold">CEO</div>
+              <div className="w-32 h-32 mx-auto mb-4 flex items-center justify-center overflow-hidden rounded-full">
+                <Image
+                  src="/images/nurse-iroda.jpg"
+                  alt="Dr. Iroda Nazarova"
+                  width={128}
+                  height={128}
+                  className="w-full h-full object-cover rounded-full"
+                />
               </div>
               <h3 className="text-xl font-bold mb-1">{t.about.teamSection.ceo.name}</h3>
               <p className="text-brand-blue font-semibold mb-3">{t.about.teamSection.ceo.role}</p>
