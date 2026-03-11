@@ -224,7 +224,8 @@ export const translations = {
     },
     footer: {
       contact: "Aloqa",
-      phone: "+998 90 123 45 67",
+      phone: "+998 88 910 31 03",
+      phone2: "+998 91 910 31 03",
       email: "info@uygayordam.uz",
       address: "Samarqand, O'zbekiston",
       rights: "© 2026 Uyga Yordam. Barcha huquqlar himoyalangan.",
@@ -447,7 +448,8 @@ export const translations = {
     },
     footer: {
       contact: "Контакты",
-      phone: "+998 90 123 45 67",
+      phone: "+998 88 910 31 03",
+      phone2: "+998 91 910 31 03",
       email: "info@uygayordam.uz",
       address: "Самарканд, Узбекистан",
       rights: "© 2026 Uyga Yordam. Все права защищены.",

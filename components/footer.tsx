@@ -71,6 +71,12 @@ export function Footer() {
                 </a>
               </li>
               <li className="flex items-center gap-2">
+                <Phone className="w-4 h-4 text-brand-blue" />
+                <a href={`tel:${t.footer.phone2}`} className="hover:text-brand-blue transition-colors">
+                  {t.footer.phone2}
+                </a>
+              </li>
+              <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-brand-blue" />
                 <a href={`mailto:${t.footer.email}`} className="hover:text-brand-blue transition-colors">
                   {t.footer.email}
