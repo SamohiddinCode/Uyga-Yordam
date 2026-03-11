@@ -53,7 +53,7 @@ export default function AboutPage() {
             <p className="text-xl text-muted-foreground">{t.about.teamSection.subtitle}</p>
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid md:grid-cols-3 gap-8">
             {/* CEO */}
             <Card className="p-6 text-center hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
               <div className="w-32 h-32 bg-gradient-to-br from-brand-blue to-brand-blue/70 rounded-full mx-auto mb-4 flex items-center justify-center overflow-hidden">
@@ -90,20 +90,6 @@ export default function AboutPage() {
               <h3 className="text-xl font-bold mb-1">{t.about.teamSection.doctor1.name}</h3>
               <p className="text-brand-blue font-semibold mb-3">{t.about.teamSection.doctor1.role}</p>
               <p className="text-sm text-muted-foreground mb-4">{t.about.teamSection.doctor1.desc}</p>
-              <div className="flex items-center justify-center gap-3 text-sm text-muted-foreground">
-                <Phone className="w-4 h-4" />
-                <Mail className="w-4 h-4" />
-              </div>
-            </Card>
-
-            {/* Lead Nurse */}
-            <Card className="p-6 text-center hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
-              <div className="w-32 h-32 bg-gradient-to-br from-brand-red to-brand-red/70 rounded-full mx-auto mb-4 flex items-center justify-center overflow-hidden">
-                <div className="text-white text-3xl font-bold">RN</div>
-              </div>
-              <h3 className="text-xl font-bold mb-1">{t.about.teamSection.nurse1.name}</h3>
-              <p className="text-brand-red font-semibold mb-3">{t.about.teamSection.nurse1.role}</p>
-              <p className="text-sm text-muted-foreground mb-4">{t.about.teamSection.nurse1.desc}</p>
               <div className="flex items-center justify-center gap-3 text-sm text-muted-foreground">
                 <Phone className="w-4 h-4" />
                 <Mail className="w-4 h-4" />
