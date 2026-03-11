@@ -97,8 +97,14 @@ export default function AboutPage() {
 
             {/* Senior Doctor */}
             <Card className="p-6 text-center hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
-              <div className="w-32 h-32 bg-gradient-to-br from-brand-blue to-brand-blue/70 rounded-full mx-auto mb-4 flex items-center justify-center overflow-hidden">
-                <div className="text-white text-3xl font-bold">DR</div>
+              <div className="w-32 h-32 mx-auto mb-4 flex items-center justify-center overflow-hidden rounded-full">
+                <Image
+                  src="/images/doctor-surayyo.jpg"
+                  alt="Dr. Surayyo Umarova"
+                  width={128}
+                  height={128}
+                  className="w-full h-full object-cover rounded-full"
+                />
               </div>
               <h3 className="text-xl font-bold mb-1">{t.about.teamSection.doctor1.name}</h3>
               <p className="text-brand-blue font-semibold mb-3">{t.about.teamSection.doctor1.role}</p>

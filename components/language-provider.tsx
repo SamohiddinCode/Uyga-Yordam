@@ -203,9 +203,9 @@ export const translations = {
           desc: "Oilaviy shifokor mutaxassisi",
         },
         doctor1: {
-          name: "Dr. Jamshid Tursunov",
-          role: "Umumiy Shifokor",
-          desc: "Oilaviy shifokor mutaxassisi",
+          name: "Dr. Surayyo Umarova",
+          role: "Shifokor",
+          desc: "20 yillik klinik tajriba",
         },
         nurse1: {
           name: "Gulnora Sharipova",
@@ -426,9 +426,9 @@ export const translations = {
           desc: "Специалист семейной медицины",
         },
         doctor1: {
-          name: "Д-р. Джамшид Турсунов",
-          role: "Врач Общей Практики",
-          desc: "Специалист семейной медицины",
+          name: "Др. Сурайё Умарова",
+          role: "Врач",
+          desc: "20 лет клинического опыта",
         },
         nurse1: {
           name: "Гульнора Шарипова",
