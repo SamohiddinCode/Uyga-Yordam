@@ -99,9 +99,14 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="font-bold text-lg mb-2">{language === "uz" ? "Telefon" : "Телефон"}</h3>
-                  <a href={`tel:${t.footer.phone}`} className="text-muted-foreground hover:text-brand-blue">
-                    {t.footer.phone}
-                  </a>
+                  <div className="space-y-2">
+                    <a href={`tel:${t.footer.phone}`} className="text-muted-foreground hover:text-brand-blue block">
+                      {t.footer.phone}
+                    </a>
+                    <a href={`tel:${t.footer.phone2}`} className="text-muted-foreground hover:text-brand-blue block">
+                      {t.footer.phone2}
+                    </a>
+                  </div>
                 </div>
               </div>
             </Card>
