@@ -53,49 +53,27 @@ export const translations = {
         items: [
           {
             name: "Uyga chaqirish xizmati",
-            price: "20,000",
-            note: "(+ tungi vaqtda taksi uchun alohida)",
+            price: "50,000",
           },
           {
-            name: "Qon bosimi o'lchash",
-            price: "10,000",
+            name: "Tomir ichiga ukol (dumbaga)",
+            price: "30,000",
           },
           {
-            name: "Tomir ichiga ukol (vena orqali)",
-            price: "20,000",
-          },
-          {
-            name: "Yonboshga ukol (muskul ichiga)",
+            name: "Mushak ichiga ukol (dumbaga)",
             price: "20,000",
           },
           {
-            name: "Teri ostiga inyeksiya",
-            price: "20,000",
-          },
-          {
-            name: "Venaga kateter qo'yish (stilet)",
+            name: "Venaga kateter qo'yish",
             price: "40,000",
           },
           {
-            name: "Tomchilatuvchi sistema (kapelnitsa)",
-            price: "30,000",
+            name: "Tomchilatuvchi Sistema",
+            price: "40,000",
           },
           {
-            name: "Sekin ketadigan systema",
-            price: "50,000",
-            note: "*har soatiga",
-          },
-          {
-            name: "Tahlil uchun qon olish xizmati",
-            price: "30,000",
-          },
-          {
-            name: "Yaralarni bog'lash (perevyazka)",
-            price: "30,000+",
-          },
-          {
-            name: "Siydik yo'liga (mochevoy) kateter qo'yish / almashtirish",
-            price: "100,000",
+            name: "Yaralarni bog'lash",
+            price: "80,000",
           },
           {
             name: "Kindik sohasiga ukol",
@@ -103,7 +81,23 @@ export const translations = {
           },
           {
             name: "Klizma qilish",
-            price: "100,000",
+            price: "150,000",
+          },
+          {
+            name: "Teri ostiga inyeksiya",
+            price: "20,000",
+          },
+          {
+            name: "Siydik yo'liga kateter qo'yish",
+            price: "150,000",
+          },
+          {
+            name: "Tahlil uchun qon olish",
+            price: "50,000",
+          },
+          {
+            name: "Sekin ketadigan sistema",
+            price: "50,000",
           },
         ],
       },
@@ -277,23 +271,14 @@ export const translations = {
         items: [
           {
             name: "Вызов на дом",
-            price: "20,000",
-            note: "(+ отдельно такси в ночное время)",
-          },
-          {
-            name: "Измерение давления",
-            price: "10,000",
+            price: "50,000",
           },
           {
             name: "Внутривенная инъекция",
-            price: "20,000",
+            price: "30,000",
           },
           {
             name: "Внутримышечная инъекция",
-            price: "20,000",
-          },
-          {
-            name: "Подкожная инъекция",
             price: "20,000",
           },
           {
@@ -302,24 +287,11 @@ export const translations = {
           },
           {
             name: "Капельница",
-            price: "30,000",
-          },
-          {
-            name: "Медленная система",
-            price: "50,000",
-            note: "*за каждый час",
-          },
-          {
-            name: "Забор крови на анализ",
-            price: "30,000",
+            price: "40,000",
           },
           {
             name: "Перевязка ран",
-            price: "30,000+",
-          },
-          {
-            name: "Установка/замена мочевого катетера",
-            price: "100,000",
+            price: "80,000",
           },
           {
             name: "Инъекция в область пупка",
@@ -327,7 +299,23 @@ export const translations = {
           },
           {
             name: "Клизма",
-            price: "100,000",
+            price: "150,000",
+          },
+          {
+            name: "Подкожная инъекция",
+            price: "20,000",
+          },
+          {
+            name: "Установка мочевого катетера",
+            price: "150,000",
+          },
+          {
+            name: "Забор крови на анализ",
+            price: "50,000",
+          },
+          {
+            name: "Медленная система",
+            price: "50,000",
           },
         ],
       },
